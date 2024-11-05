@@ -23,6 +23,7 @@
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Sublime Merge](https://img.shields.io/badge/-Sublime_Merge-333333?style=flat&logo=sublime-merge&logoColor=FF9800)
 
 **DevOps**
 
