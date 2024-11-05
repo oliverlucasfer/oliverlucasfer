@@ -4,6 +4,8 @@
 - 💼 Trabalhando como Desenvolvedor Full Stack na Conceito Tecnologia.
 - 🌱 Aprendendo mais sobre ASP.NET 6+/Core, Angular 10+.
 
+[![oliverlucasfer](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverlucasfer&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Minhas Skills
 
 **Aplicações e dados**
@@ -38,5 +40,3 @@
 
 [![Linkedin](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ferreira-de-oliveira-0975392a5/)](https://www.linkedin.com/in/lucas-ferreira-de-oliveira-0975392a5/)
 [![Gmail Badge](https://img.shields.io/badge/-oliverlucasfer@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oliverlucasfer@hotmail.com)](mailto:oliverlucasfer@hotmail.com)
-
-[![oliverlucasfer](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverlucasfer&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
