@@ -36,11 +36,7 @@
 
 <br/>
 
-<a href="https://github.com/oliverlucasfer" title="Perfil do Lucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliverlucasfer&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ferreira-de-oliveira-0975392a5/)](https://www.linkedin.com/in/lucas-ferreira-de-oliveira-0975392a5/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oliverlucasfer@hotmail.com)](mailto:oliverlucasfer@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/-Lucas-Oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ferreira-de-oliveira-0975392a5/)](https://www.linkedin.com/in/lucas-ferreira-de-oliveira-0975392a5/)
+[![Gmail Badge](https://img.shields.io/badge/-oliverlucasfer@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oliverlucasfer@hotmail.com)](mailto:oliverlucasfer@hotmail.com)
