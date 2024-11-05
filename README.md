@@ -35,7 +35,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ferreira-de-oliveira-0975392a5/)](https://www.linkedin.com/in/lucas-ferreira-de-oliveira-0975392a5/)
