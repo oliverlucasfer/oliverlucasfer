@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💼 Trabalhando como Desenvolvedor Full Stack na Conceito Tecnologia.
-- 🌱 Aprendendo mais sobre ASP.NET 6+/Core, Angular 10+.
+- 🌱 Aprendendo mais sobre ASP.NET 5+/Core, Angular 2+.
 
 [![oliverlucasfer](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverlucasfer&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
